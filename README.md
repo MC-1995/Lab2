@@ -11,3 +11,11 @@
 7 - Методы и передача аргументов
 8 - Консольное меню
 9 - Информация о сборке
+
+1. Компиляция:
+javac -d out $(find src -name "*.java")
+2. Создание JAR:
+jar cfm Lab2.jar manifest.mf -C out.
+3. Запуск:
+java -jar Lab2.jar
+java -jar Lab2.jar 1
