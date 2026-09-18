@@ -1,0 +1,9 @@
+src/ru/university/lab2/arrays/Task05.java
+src/ru/university/lab2/arrays/Task06.java
+src/ru/university/lab2/Main.java
+src/ru/university/lab2/numbers/Task01.java
+src/ru/university/lab2/numbers/Task02.java
+src/ru/university/lab2/numbers/Task03.java
+src/ru/university/lab2/strings/Task04.java
+src/ru/university/lab2/util/Task07.java
+src/ru/university/lab2/util/Task08.java
